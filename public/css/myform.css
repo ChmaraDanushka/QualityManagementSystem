@@ -1,0 +1,38 @@
+
+.form-control{
+ border: none;
+ box-shadow: 1px 1px 10px 1px rgb(212, 212, 212);
+    
+}
+
+#selected_image{
+
+height: 100%;
+width: 100%;
+overflow: hidden;
+
+}
+
+.dot {
+    height: 125px;
+    width: 125px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 10px;
+  }
+
+#add_admin_form{
+    margin-top: 5px;
+}
+
+.modern-form{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#user_level{
+   
+}
+
